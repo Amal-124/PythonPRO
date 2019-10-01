@@ -1,4 +1,4 @@
-def add(a,b): 
+def add(a,b): #paramiters
     if a>b:
         print("a is greater than b ")
     elif a==b:
@@ -8,4 +8,4 @@ def add(a,b):
         
         
 
-add(8,8)
+add(8,8) #out of the function

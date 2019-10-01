@@ -5,4 +5,4 @@ print ("The sum is", c ," and the addition is done.")
 a=input("enter firstname : ")
 b=input("enter secondname : ")
 c=  a +" "+b
-print("you are, " , c)
+print("you are, " , c) #give number and name
