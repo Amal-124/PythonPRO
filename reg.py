@@ -4,7 +4,7 @@ def reg(name, gba):
         print("sorry you cannot register")
     else :
         print("you can register")
-#out of the function
-
+### outside
 reg('amal', 98)
-    
+student=['amal', 'ahmad', 'anwar', 50 , 70] #list
+print(student)
