@@ -1,9 +1,10 @@
 
-def reg(name,gba):
-    if gpa<=70:
+def reg(name, gba):
+    if gpa <= 70:
         print("sorry you cannot register")
-       else:
+    else :
         print("you can register")
 #out of the function
-reg("amal", 98)
+
+reg('amal', 98)
     
